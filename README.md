@@ -7,10 +7,10 @@ An interactive retail sales dashboard using Power BI and MySQL.
 Here are the visual insights generated from the data:
 
 ### 1. Main Dashboard
-! [Dashboard](dashboard.png)
+<img src="dashboard.png" width="100%" />
 
 ### 2. Deep Insights
- ! [Insights](insights.png)
+ <img src="insights.png" width="100%" />
 
 ## 💻 SQL Queries
 The database creation and insights queries can be found in the [queries.sql](queries.sql) file.
